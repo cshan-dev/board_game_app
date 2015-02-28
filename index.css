@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+}
+p {
+  color: green;
+  font-size: 150%;
+  font-family: "Times New Roman", Times, serif;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
